@@ -2,16 +2,16 @@
 
 # Board member qualifications
 
-The qualifications<sup>1</sup><sup>,</sup><sup>2</sup> for board members
-are:
+The qualifications for board members are:
 
-1.  Be the owner of a home within Glen Lake
-2.  Be in good standing with the association
-3.  Reside in the neighborhood
-4.  Not be a spouse of a board member
+1.  Be the owner of a home within Glen Lake<sup>1</sup>
+2.  Reside in the neighborhood<sup>1</sup>
+3.  Not be a spouse of a board member<sup>1</sup>
+4.  Be in good standing with the
+    association<sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup>
 
 *Good standing* is defined as having paid all annual assessments and
-fines<sup>2</sup><sup>,</sup><sup>3</sup> and having no suspension of
+fines<sup>3</sup><sup>,</sup><sup>2</sup> and having no suspension of
 voting rights for any reason.<sup>2</sup><sup>,</sup><sup>4</sup> *Owner
 of a home* is defined as being listed on the deed or be the spouse of
 the person listed on the
