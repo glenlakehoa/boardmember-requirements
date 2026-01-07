@@ -10,12 +10,12 @@ The qualifications for board members are:
 4.  Be in good standing with the
     association<sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup>
 
-*Good standing* is defined as having paid all annual assessments and
+*Owner of a home* is defined as being listed on the deed or be the
+spouse of the person listed on the
+deed.<sup>1</sup><sup>,</sup><sup>5</sup><sup>,</sup><sup>6</sup> *Good
+standing* is defined as having paid all annual assessments and
 fines<sup>2</sup><sup>,</sup><sup>3</sup> and having no suspension of
-voting rights for any reason.<sup>2</sup><sup>,</sup><sup>4</sup> *Owner
-of a home* is defined as being listed on the deed or be the spouse of
-the person listed on the
-deed.<sup>1</sup><sup>,</sup><sup>5</sup><sup>,</sup><sup>6</sup>
+voting rights for any reason.<sup>2</sup><sup>,</sup><sup>4</sup>
 
 # References
 
