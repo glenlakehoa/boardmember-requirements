@@ -11,7 +11,7 @@ The qualifications for board members are:
     association<sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup>
 
 *Good standing* is defined as having paid all annual assessments and
-fines<sup>3</sup><sup>,</sup><sup>2</sup> and having no suspension of
+fines<sup>2</sup><sup>,</sup><sup>3</sup> and having no suspension of
 voting rights for any reason.<sup>2</sup><sup>,</sup><sup>4</sup> *Owner
 of a home* is defined as being listed on the deed or be the spouse of
 the person listed on the
